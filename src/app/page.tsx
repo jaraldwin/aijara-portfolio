@@ -119,7 +119,10 @@ export default function Home() {
             <h1 className="text-6xl font-serif text-orange-500 font-bold">
               Aldwin
             </h1>
-            <h2 className="text-5xl font-bold text-black mt-2">Jara</h2>
+            <h1 className="text-5xl font-bold text-black mt-2">Jara</h1>
+            <h3 className="text-2xl font-medium text-gray-700 mt-2">
+              Fullstack Developer
+            </h3>
 
             {/* Get in Touch Button */}
             <motion.a
